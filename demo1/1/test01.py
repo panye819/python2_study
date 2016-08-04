@@ -36,3 +36,5 @@ print sorted(a)
 print b"""
 
 print "hi,github!!"
+print "hi,github!!"*3
+
